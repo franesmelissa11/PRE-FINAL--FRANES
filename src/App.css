@@ -1,12 +1,12 @@
 .storefront {
-  --paper: #fffaf4;
-  --surface: #fffdf9;
-  --ink: #28392f;
-  --muted: #788078;
-  --line: #e8e5dc;
-  --pink: #e88990;
-  --green: #41634b;
-  --yellow: #f1c84d;
+  --paper: #f7f4ff;
+  --surface: #ffffff;
+  --ink: #1e2437;
+  --muted: #5d677d;
+  --line: #e9e2f5;
+  --pink: #d75e8d;
+  --green: #2c7b7a;
+  --yellow: #f1be68;
   min-height: 100vh;
   color: var(--ink);
   background: var(--paper);
@@ -14,14 +14,14 @@
 }
 
 .storefront.theme-dark {
-  --paper: #202820;
-  --surface: #29332b;
-  --ink: #f5eee2;
-  --muted: #bbc0b5;
-  --line: #414b40;
-  --pink: #eea0a4;
-  --green: #c6d9bb;
-  --yellow: #efcf6a;
+  --paper: #171d2d;
+  --surface: #212b40;
+  --ink: #f4f0ff;
+  --muted: #b9bfd4;
+  --line: #384768;
+  --pink: #ef8bb1;
+  --green: #7ad5c8;
+  --yellow: #f4d180;
 }
 
 .site-header {
